@@ -7,16 +7,37 @@ maintainers:
   - project_id: "kepler"
     org: "sustainable-computing-io"
     teams:
-      - name: "project-maintainers"
+      - name: "kepler-maintainer"
         members:
-          - vimalk78
-          - vprashar2929
-          - KaiyiLiu1234
-          - sthaha
-          - jiangphcn
-          - bradmccoydev
-          - SamYuan1990
-          - sunya-ch
-          - nikimanoledaki
-          - yellowhat
-          - laurall974
+          - nikimanoledaki    # Niki Manoledaki, Grafana Labs - Project Lead
+          - laurall974        # Laura Llinares, CERN          - Technical Committee
+          - sunya-ch          # Sunyanan Choochotkaew, IBM    - Community Engagement
+          - vprashar2929      # Vibhu Prashar, Red Hat        - Technical Committee, Release Management, Repository Oversight
+          - sthaha            # Sunil Thaha                   - Technical Committee
+          - iacker            # Erwan Billard                 - Technical Committee, Repository Oversight
+          - angelOlivares     # Ángel Olivares                - Technical Committee, Community Engagement
+          - bitflicker64      # Himanshu Verma                - Technical Committee
+          - marybaldwin       # Mary Baldwin Hughes           - Community Engagement
+          - JulianLegler      # Julian Legler, TU Berlin      - Technical Committee, Repository Oversight
+          - didiViking        # Diana Todea, VictoriaMetrics  - Community Engagement, Repository Oversight
+          - leonorfmartins    # Leonor Oliveira, Grafana Labs - Repository Oversight
+      - name: "emeritus-maintainer"
+        members:            # Last cycle
+          - rootfs          # Spring 2025
+          - jichenjc        # Spring 2025
+          - husky-parul     # Spring 2025
+          - williamcaban    # Spring 2025
+          - kenplusplus     # Spring 2025
+          - marceloamaral   # Spring 2025
+          - ruomengh        # Spring 2025
+          - wangchen615     # Spring 2025
+          - jiere           # Spring 2025
+          - dave-tucker     # Spring 2025
+          - maryamtahhan    # Spring 2025
+          - huoqifeng       # Fall 2025
+          - vimalk78        # Spring 2026
+          - kaiyiliu-strala # Spring 2026
+          - jiangphcn       # Spring 2026
+          - bradmccoydev    # Spring 2026
+          - SamYuan1990     # Spring 2026
+          - yellowhat       # Spring 2026
