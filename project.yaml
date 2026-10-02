@@ -6,7 +6,7 @@ slug: "kepler"
 name: "Kepler"
 description: "Kepler (Kubernetes-based Efficient Power Level Exporter) is a Prometheus exporter that measures energy consumption at the Pod and Node level by reading hardware sensors, attributing it to containers, and giving per-workload visibility into where energy goes. Let's make every watt matter."
 type: "project"
-project_lead: "vimalk78"
+project_lead: "nikimanoledaki"
 slack_channels:
   - name: "#kepler-project"
     primary: true
