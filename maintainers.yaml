@@ -22,6 +22,7 @@ maintainers:
           - didiViking        # Diana Todea, VictoriaMetrics  - Community Engagement, Repository Oversight
           - leonorfmartins    # Leonor Oliveira, Grafana Labs - Repository Oversight
       - name: "emeritus-maintainers"
+        managed: false
         members:            # Last cycle
           - rootfs          # Spring 2025
           - jichenjc        # Spring 2025
