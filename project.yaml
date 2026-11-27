@@ -26,7 +26,7 @@ repositories:
 
 website: "https://sustainable-computing.io/"
 
-artwork: "https://landscape.cncf.io/logos/kepler.svg"
+artwork: "https://github.com/cncf/artwork/tree/main/projects/kepler"
 
 adopters:
   path: "https://sustainable-computing.io/project/adopters"
